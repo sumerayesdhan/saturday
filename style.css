@@ -6,7 +6,7 @@
 
 body {
 	font-family: borel;
-	color: #343a40;
+	color: #d85210;
 	line-height: 1.4;
 }
 
@@ -32,7 +32,7 @@ body {
 .icon {
 	width: 24px;
 	height: 24px;
-	stroke: #087f5b;
+	stroke: #737f08;
 }
 
 .hidden-box p {
@@ -68,7 +68,7 @@ body {
 }
 
 .num {
-	color: #e0e5eb;
+	color: rgb(28, 235, 9);
 }
 
 .open {
@@ -87,4 +87,3 @@ body {
 .item {
 	border-radius: 12px;
 }
-
